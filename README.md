@@ -1,5 +1,5 @@
-# Flow
-
+# Flow (Speech to text) Windows
+(created because didn't want to pay for wisperflow)
 Voice-to-text that pastes anywhere. Hold a hotkey, speak, release — your words get transcribed and pasted wherever your cursor is.
 
 Built on OpenAI's Whisper API with a minimal floating pill UI.
@@ -35,7 +35,7 @@ On first run it'll ask you to pick a microphone.
 
 - Python 3.10+
 - OpenAI API key
-- Windows (macOS support coming soon)
+- Windows
 
 ## License
 
