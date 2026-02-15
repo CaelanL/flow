@@ -1,0 +1,6 @@
+sounddevice
+soundfile
+numpy
+openai
+keyboard
+python-dotenv
